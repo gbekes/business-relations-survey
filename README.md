@@ -1,4 +1,6 @@
 # business relations survey project public site
-Bekes-Koren-Murakozy-Telegdy Business Relations Survey research project
+Bekes-Koren-Murakozy-Telegdy 
 
-Now just includes some public documents
+In assets, you may find information on the survey.
+
+In presentations, we have the first talk, very much work in progress. 
